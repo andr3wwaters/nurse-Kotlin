@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nurse</string>
+    <string name="button_addNurse">Add Nurse</string>
+    <string name="hint_nurseName">Nurse Name</string>
+    <string name="hint_nurseAddress">Address </string>
+    <string name="hint_nurseSalary">Salary </string>
+    <string name="menu_addNurse">Add</string>
+    <string name="menu_cancelNurse">Cancel</string>
+    <string name="menu_deleteNurse">Delete</string>
+    <string name="enter_nurse_name"> Please enter a Nurse Title </string>
+    <string name="save_nurse"> Save Nurse </string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="select_nurse_image">Select Nurse image</string>
+    <string name="change_nurse_image">Change Nurse image</string>
+    <string name="nurse_image">Nurse image</string>
+    <string name="button_salary">add Salary</string>
+</resources>
